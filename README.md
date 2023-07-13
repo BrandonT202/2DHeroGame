@@ -7,4 +7,4 @@
 
 # Play the demo here: [Click to play]
 
-[Website]: https://brandont202.github.io/2DHeroGame/
+[Click to play]: https://brandont202.github.io/2DHeroGame/
