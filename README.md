@@ -5,4 +5,4 @@
 - Item animatons
 - Action sound effects
 
-Play the demo here: (Link)[https://brandont202.github.io/2DHeroGame/]
+Play the demo here: <https://brandont202.github.io/2DHeroGame/>
